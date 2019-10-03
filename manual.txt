@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=kN1Czs0m1SU
+
+how to install electron globally
+
+npm install -g electron --unsafe-perm=true --allow-root
+
+
+
+"scripts": {
+    "start": "electron . --disable-gpu and --force-cpu-draw"
+}
+
+
+$node
+> process.platform 
+
+//to check 
+darwin = mac
+win32
+linux
+
+=================================
+how to run app
+Go to
+/home/nikhom/HomeWork2/electron_projects/p01/release-builds/electron-tutorial-app-linux-x64/resources
+
+electron app.asar
